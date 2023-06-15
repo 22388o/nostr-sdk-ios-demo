@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00C78DBA-98ED-4E24-BE9C-EAB64AA3E3EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DBDA86F-8F83-42DA-BC08-747D6A90750B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NostrSDKDemo/ConnectRelayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "status(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DBDA86F-8F83-42DA-BC08-747D6A90750B - 57af4a547d1ed891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NostrSDKDemo.ConnectRelayView.status(Swift.Optional&lt;NostrSDK.Relay.State&gt;) -&gt; Swift.String"
+                  moduleName = "NostrSDKDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/honk/code/sdk-demo/NostrSDKDemo/ConnectRelayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "9DBDA86F-8F83-42DA-BC08-747D6A90750B - 57af4a547d1ed891"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NostrSDKDemo.ConnectRelayView.status(Swift.Optional&lt;NostrSDK.Relay.State&gt;) -&gt; Swift.String"
+                  moduleName = "NostrSDKDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/honk/code/sdk-demo/NostrSDKDemo/ConnectRelayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "182">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8DD3971-69B7-48F8-BC12-46460C0181D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NostrSDKDemo/ConnectRelayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "status(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8DD3971-69B7-48F8-BC12-46460C0181D2 - 57af4a547d1ed8d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NostrSDKDemo.ConnectRelayView.status(Swift.Optional&lt;NostrSDK.Relay.State&gt;) -&gt; Swift.String"
+                  moduleName = "NostrSDKDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/honk/code/sdk-demo/NostrSDKDemo/ConnectRelayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "D8DD3971-69B7-48F8-BC12-46460C0181D2 - 57af4a547d1ed8d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NostrSDKDemo.ConnectRelayView.status(Swift.Optional&lt;NostrSDK.Relay.State&gt;) -&gt; Swift.String"
+                  moduleName = "NostrSDKDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/honk/code/sdk-demo/NostrSDKDemo/ConnectRelayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "000E0B76-3B3D-4FF5-A485-7350C6468A76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NostrSDKDemo/ConnectRelayView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "status(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "000E0B76-3B3D-4FF5-A485-7350C6468A76 - 57af4a547d1ed80d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NostrSDKDemo.ConnectRelayView.status(Swift.Optional&lt;NostrSDK.Relay.State&gt;) -&gt; Swift.String"
+                  moduleName = "NostrSDKDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/honk/code/sdk-demo/NostrSDKDemo/ConnectRelayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  uuid = "000E0B76-3B3D-4FF5-A485-7350C6468A76 - 57af4a547d1ed80d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NostrSDKDemo.ConnectRelayView.status(Swift.Optional&lt;NostrSDK.Relay.State&gt;) -&gt; Swift.String"
+                  moduleName = "NostrSDKDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/honk/code/sdk-demo/NostrSDKDemo/ConnectRelayView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B98E3F42-EB63-4719-A276-8095DEB5F360"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NostrSDKDemo-bodgwqgbgjrnpxbavhqpjglgsuyr/SourcePackages/checkouts/nostr-sdk-ios/Sources/NostrSDK/Relay.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "init(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5B851D0-B374-4BC1-87E7-8805DE93B622"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NostrSDKDemo-bodgwqgbgjrnpxbavhqpjglgsuyr/SourcePackages/checkouts/nostr-sdk-ios/Sources/NostrSDK/Relay.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "init(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "763ADEB2-1F13-45F1-A5D8-953AE2A5D42C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/NostrSDKDemo-bodgwqgbgjrnpxbavhqpjglgsuyr/SourcePackages/checkouts/nostr-sdk-ios/Sources/NostrSDK/Relay.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "init(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
